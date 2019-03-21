@@ -10,5 +10,5 @@ And I also recommend installing nodemon package globally by typing the command:
 After that to run the project you just type the command: 
   nodemon app.js
 
-The project should be visible if you type in your browser localhost:5000
+The project should be visible if you type in your browser: localhost:5000
 
