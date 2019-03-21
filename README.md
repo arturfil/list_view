@@ -1,6 +1,6 @@
 # list_view
 
-In order to be able to launch this project you have to have node install from https://nodejs.org/en/
+In order to be able to launch this project you have to have node installed from https://nodejs.org/en/
 
 After that you are going to run the command npm install which should install the express package from the package.json file
 
